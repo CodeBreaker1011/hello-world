@@ -1,5 +1,5 @@
 # hello-world
 
 Hi Im a coder!
-//more efficient 
-I've made some changes here!
+System.out.println("Hello World");
+System.out.println("Hello Coder");
